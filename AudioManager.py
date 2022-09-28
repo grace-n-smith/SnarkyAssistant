@@ -8,6 +8,8 @@ import time
 import configparser
 from queue import Queue
 
+access_key = "xRu/WDprZ2VcFV8OUZ+HGpNwvkTHdPCajQM6u62bp6ImpqvmNnJDeA==" # AccessKey obtained from Picovoice Console (https://console.picovoice.ai/)
+
 class AudioManager:
     l = None
     stop_rec = False
@@ -20,7 +22,7 @@ class AudioManager:
 
     def __init__(self, logger, config_file, display_man, sound_man):
         # Porcupine handles the wakewords
-        self.porc = pvporcupine.create(keywords=["computer"])
+        self.porc = pvporcupine.create(keywords=["computer"], access_key=access_key)
         self.fs = self.porc.sample_rate
         self.frame_len = self.porc.frame_length
         self.l = logger

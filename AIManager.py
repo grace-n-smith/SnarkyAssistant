@@ -110,10 +110,10 @@ class AIManager:
         self.prompt_name = prompt_name
 
         # You'll get an error here if the key file doesn't exist
-        f = open(self.config["AI"]["key_path"], "r")
-        key_text = f.read()
-        if key_text[-1] == "\n": key_text = key_text[:-1]
-        openai.api_key = key_text
+        #f = open(self.config["AI"]["key_path"], "r")
+        #key_text = f.read()
+        #if key_text[-1] == "\n": key_text = key_text[:-1]
+        openai.api_key = "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"
 
     # Get text between two strings
     def between_strings(self, start, end, text):
