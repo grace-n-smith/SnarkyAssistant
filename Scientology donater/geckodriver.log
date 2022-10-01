@@ -276,3 +276,828 @@ JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, li
 JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
 JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
 JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664648318544	Marionette	INFO	Stopped listening on port 60887
+[Parent 23328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mp\\rust_mozprofile65fqg5"
+1664648308273	Marionette	INFO	Marionette enabled
+1664648308276	Marionette	INFO	Listening on port 61217
+Read port: 61217
+WebDriver BiDi listening on ws://127.0.0.1:61208
+1664648308342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile65fqg5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61208/devtools/browser/fba1a627-dc3d-4468-a7e6-4c1f118382a4
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664648315709	Marionette	INFO	Stopped listening on port 61217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664648819518	geckodriver	INFO	Listening on 127.0.0.1:61458
+1664648822605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilejUMmMk"
+1664648822825	Marionette	INFO	Marionette enabled
+1664648822828	Marionette	INFO	Listening on port 61470
+Read port: 61470
+WebDriver BiDi listening on ws://127.0.0.1:61459
+1664648822894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilejUMmMk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61459/devtools/browser/6eaaa417-0c94-44e5-b6b8-3f9de8176c1d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664649247729	Marionette	INFO	Stopped listening on port 61470
+e-debugging-port" "61627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemyM0bn"
+1664649107848	Marionette	INFO	Marionette enabled
+1664649107851	Marionette	INFO	Listening on port 61636
+Read port: 61636
+WebDriver BiDi listening on ws://127.0.0.1:61627
+1664649107918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemyM0bn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61627/devtools/browser/2de27962-ab3e-4038-abdf-caddd028234a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664649247670	Marionette	INFO	Stopped listening on port 61636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofiletKznZh"
+1664649137136	Marionette	INFO	Marionette enabled
+1664649137139	Marionette	INFO	Listening on port 61712
+Read port: 61712
+WebDriver BiDi listening on ws://127.0.0.1:61701
+1664649137205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofiletKznZh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61701/devtools/browser/2d388064-a677-4d82-a036-316c466a27c9
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664649247670	Marionette	INFO	Stopped listening on port 61712
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664649280030	geckodriver	INFO	Listening on 127.0.0.1:61879
+1664649283092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileY3dJmT"
+1664649283309	Marionette	INFO	Marionette enabled
+1664649283312	Marionette	INFO	Listening on port 61891
+WebDriver BiDi listening on ws://127.0.0.1:61880
+Read port: 61891
+1664649283496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileY3dJmT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61880/devtools/browser/d9b6dc8f-6f66-4c96-87c5-e560d67130fa
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664649556457	Marionette	INFO	Stopped listening on port 61891
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecEAnKw"
+1664649354550	Marionette	INFO	Marionette enabled
+1664649354553	Marionette	INFO	Listening on port 62026
+WebDriver BiDi listening on ws://127.0.0.1:62016
+Read port: 62026
+1664649354735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecEAnKw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62016/devtools/browser/4b711a8d-8bc2-4dfe-b16b-9d45729ab012
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664649556457	Marionette	INFO	Stopped listening on port 62026
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilerpQkoF"
+1664649427282	Marionette	INFO	Marionette enabled
+1664649427285	Marionette	INFO	Listening on port 62164
+WebDriver BiDi listening on ws://127.0.0.1:62153
+Read port: 62164
+1664649427462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilerpQkoF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62153/devtools/browser/c0a6a3fb-8446-490a-8f64-bf4a26047fc6
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664649556560	Marionette	INFO	Stopped listening on port 62164
+e-debugging-port" "62247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileDX8Pw6"
+1664649490007	Marionette	INFO	Marionette enabled
+1664649490010	Marionette	INFO	Listening on port 62260
+Read port: 62260
+WebDriver BiDi listening on ws://127.0.0.1:62247
+1664649490076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileDX8Pw6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62247/devtools/browser/5cae26bb-11dd-4417-b21f-5402fe11f18c
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664649556450	Marionette	INFO	Stopped listening on port 62260
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11992, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileIwXU7v"
+1664649540724	Marionette	INFO	Marionette enabled
+1664649540727	Marionette	INFO	Listening on port 62376
+Read port: 62376
+WebDriver BiDi listening on ws://127.0.0.1:62364
+1664649540793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileIwXU7v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62364/devtools/browser/3f445e23-bbfd-46f4-a87e-a70563687053
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664649556454	Marionette	INFO	Stopped listening on port 62376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664649636426	geckodriver	INFO	Listening on 127.0.0.1:62473
+1664649639483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileDztAGv"
+1664649639705	Marionette	INFO	Marionette enabled
+1664649639708	Marionette	INFO	Listening on port 62483
+WebDriver BiDi listening on ws://127.0.0.1:62474
+Read port: 62483
+1664649639905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileDztAGv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62474/devtools/browser/84e106cc-58d3-46a9-a641-fe15c846665d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.iasmembership.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.iasmembership.org."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664650149731	Marionette	INFO	Stopped listening on port 62483
+1664650149799	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+[Parent 23160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileosmLWa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62557/devtools/browser/b88ff7eb-34b7-4fe7-86f0-c9e128b58282
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664650149627	Marionette	INFO	Stopped listening on port 62568
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileEmgDl9"
+1664649708435	Marionette	INFO	Marionette enabled
+1664649708438	Marionette	INFO	Listening on port 62651
+Read port: 62651
+WebDriver BiDi listening on ws://127.0.0.1:62641
+1664649708504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileEmgDl9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62641/devtools/browser/45062f62-ec31-4693-94a0-5b068c94ae21
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664650149623	Marionette	INFO	Stopped listening on port 62651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0m5cGn"
+1664649907479	Marionette	INFO	Marionette enabled
+1664649907482	Marionette	INFO	Listening on port 62806
+WebDriver BiDi listening on ws://127.0.0.1:62797
+Read port: 62806
+1664649907662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0m5cGn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62797/devtools/browser/4f107281-22b9-42e5-a63c-bc670365a8b9
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664650149734	Marionette	INFO	Stopped listening on port 62806
+e-debugging-port" "62915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileL12Wsq"
+1664649998794	Marionette	INFO	Marionette enabled
+1664649998797	Marionette	INFO	Listening on port 62927
+WebDriver BiDi listening on ws://127.0.0.1:62915
+Read port: 62927
+1664649998993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileL12Wsq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62915/devtools/browser/abf52c3c-d763-4c8c-a28e-fd77e667d5a2
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664650149621	Marionette	INFO	Stopped listening on port 62927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileeA8BBW"
+1664650041665	Marionette	INFO	Marionette enabled
+1664650041668	Marionette	INFO	Listening on port 63016
+WebDriver BiDi listening on ws://127.0.0.1:63006
+Read port: 63016
+1664650041843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileeA8BBW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63006/devtools/browser/c32df7e0-2d87-450a-81b7-2d8a209c69df
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664650149731	Marionette	INFO	Stopped listening on port 63016
+e-debugging-port" "63130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileoTdLbP"
+1664650125002	Marionette	INFO	Marionette enabled
+1664650125005	Marionette	INFO	Listening on port 63143
+WebDriver BiDi listening on ws://127.0.0.1:63130
+Read port: 63143
+1664650125188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileoTdLbP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63130/devtools/browser/5bc666d0-a79d-47c3-a345-d23603e91b10
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664650147363	Marionette	INFO	Stopped listening on port 63143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664650164195	geckodriver	INFO	Listening on 127.0.0.1:63222
+1664650167258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileJ6vdgK"
+1664650167482	Marionette	INFO	Marionette enabled
+1664650167485	Marionette	INFO	Listening on port 63233
+WebDriver BiDi listening on ws://127.0.0.1:63223
+Read port: 63233
+1664650167672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileJ6vdgK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63223/devtools/browser/6f0d7a03-1356-43be-af20-c6102328e924
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664651945848	Marionette	INFO	Stopped listening on port 63233
+4650254042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile87G0Aw"
+1664650254260	Marionette	INFO	Marionette enabled
+1664650254263	Marionette	INFO	Listening on port 63358
+Read port: 63358
+WebDriver BiDi listening on ws://127.0.0.1:63348
+1664650254329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile87G0Aw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63348/devtools/browser/d8e0a455-fb27-4bfb-b73f-331d74e16d8c
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664650270925	Marionette	INFO	Stopped listening on port 63358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664650289739	geckodriver	INFO	Listening on 127.0.0.1:63425
+1664650292816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQlc4wt"
+1664650293032	Marionette	INFO	Marionette enabled
+1664650293035	Marionette	INFO	Listening on port 63437
+Read port: 63437
+WebDriver BiDi listening on ws://127.0.0.1:63426
+1664650293101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQlc4wt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63426/devtools/browser/c2c08cfd-0d95-4174-b3b0-71b790c26846
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+1664651945802	Marionette	INFO	Stopped listening on port 63437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te	INFO	Marionette enabled
+1664650336426	Marionette	INFO	Listening on port 63523
+Read port: 63523
+WebDriver BiDi listening on ws://127.0.0.1:63514
+1664650336492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileI6jJW8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63514/devtools/browser/14025322-efb8-4a68-9e83-b069d3a16f3d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664651945788	Marionette	INFO	Stopped listening on port 63523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegL0RLT"
+1664650376409	Marionette	INFO	Marionette enabled
+1664650376412	Marionette	INFO	Listening on port 63603
+WebDriver BiDi listening on ws://127.0.0.1:63593
+Read port: 63603
+1664650376590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegL0RLT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63593/devtools/browser/051aa7c8-39bc-4343-98fd-06008e689915
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664651945856	Marionette	INFO	Stopped listening on port 63603
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemqSC5E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63714/devtools/browser/77cfd7a3-55e5-44dc-b391-c5e13228855d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+1664651945803	Marionette	INFO	Stopped listening on port 63726
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+.0.1:63827
+Read port: 63837
+1664650626058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQEiSbD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63827/devtools/browser/b6f3880f-21ed-4a4e-9447-32aeea0b136b
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+1664651945799	Marionette	INFO	Stopped listening on port 63837
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te	INFO	Marionette enabled
+1664650725301	Marionette	INFO	Listening on port 63945
+WebDriver BiDi listening on ws://127.0.0.1:63935
+Read port: 63945
+1664650725478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileZqkSQo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63935/devtools/browser/8689629b-88f6-4833-9b99-ec84a2b51931
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+1664651945772	Marionette	INFO	Stopped listening on port 63945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te	INFO	Marionette enabled
+1664650866339	Marionette	INFO	Listening on port 64109
+Read port: 64109
+WebDriver BiDi listening on ws://127.0.0.1:64099
+1664650866406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileesF0DQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64099/devtools/browser/d20164cc-4260-47e9-b94a-4a340f926dcf
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1664651945787	Marionette	INFO	Stopped listening on port 64109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5024, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+INFO	Listening on port 64219
+WebDriver BiDi listening on ws://127.0.0.1:64210
+Read port: 64219
+1664650949983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileWWlZml\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64210/devtools/browser/45431300-63e7-432c-a70f-fc687c8af64a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1664651945804	Marionette	INFO	Stopped listening on port 64219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 25892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+archSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileYK6jBc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64307/devtools/browser/2cbad490-bc78-4870-a738-73dd96ab67f3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+1664651945795	Marionette	INFO	Stopped listening on port 64317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3192, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tte	INFO	Marionette enabled
+1664651105641	Marionette	INFO	Listening on port 64451
+Read port: 64451
+WebDriver BiDi listening on ws://127.0.0.1:64439
+1664651105706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileUisfHn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64439/devtools/browser/7a28b934-aee2-45bf-b162-f59e634bf09e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+1664651935800	Marionette	INFO	Stopped listening on port 64451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileyTHNnN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64536/devtools/browser/1e06b614-2b72-4254-a6ab-b0da5e595f62
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+1664651935786	Marionette	INFO	Stopped listening on port 64545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+he file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileAT7o9H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64625/devtools/browser/5b76f76e-4ffe-48dd-acd8-65a470b694d4
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+1664651935780	Marionette	INFO	Stopped listening on port 64636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+	INFO	Listening on port 64719
+WebDriver BiDi listening on ws://127.0.0.1:64708
+Read port: 64719
+1664651219309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebPdA2t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64708/devtools/browser/0dce6dcb-5281-47ea-9f54-44ac275095db
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+1664651935805	Marionette	INFO	Stopped listening on port 64719
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+"localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilewCs9Dx"
+1664651243182	Marionette	INFO	Marionette enabled
+1664651243185	Marionette	INFO	Listening on port 64795
+WebDriver BiDi listening on ws://127.0.0.1:64785
+Read port: 64795
+1664651243361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilewCs9Dx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64785/devtools/browser/4eb2bb87-f779-4f8c-b615-c10acdc40daa
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+console.error: services.settings: 
+  Message: StorageError: Storage error: AbortError: IndexedDB: main/devtools-compatibility-browsers importChanges() IndexedDB:  importChanges() in main/devtools-compatibility-browsers A request was aborted, for example through a call to IDBTransaction.abort.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:886:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+JavaScript error: , line 0: uncaught exception: null
+1664651935780	Marionette	INFO	Stopped listening on port 64795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+8: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+1664651935810	Marionette	INFO	Stopped listening on port 64880
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+\\AppData\\Local\\Temp\\rust_mozprofileFlVukr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64995/devtools/browser/9db97e13-febf-4f77-a559-4a6ce5ff4757
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+1664651935819	Marionette	INFO	Stopped listening on port 65010
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+\\AppData\\Local\\Temp\\rust_mozprofile69I5l9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65099/devtools/browser/b1289af6-a8eb-4d5b-9a13-7a918a9e35a3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 5569) to file C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile69I5l9\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+JavaScript error: , line 0: uncaught exception: null
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+1664651935789	Marionette	INFO	Stopped listening on port 65113
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+turn statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: null
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+1664651935801	Marionette	INFO	Stopped listening on port 65205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+ED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+DevTools listening on ws://127.0.0.1:65298/devtools/browser/6c6ef331-4a7c-4f42-9218-51c3ad6d7821
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 966: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: , line 0: NS_ERROR_FILE_NO_DEVICE_SPACE
+JavaScript error: , line 0: NS_ERROR_FILE_NO_DEVICE_SPACE
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1412: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1412: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 966: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 418: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 418: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource://gre/modules/PlacesUtils.sys.mjs, line 2073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 418: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+1664651935757	Marionette	INFO	Stopped listening on port 65307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+ne 0: uncaught exception: Object
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 5541) to file C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileZlDwYv\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+ileVzQtHl"
+1664651609854	Marionette	INFO	Marionette enabled
+1664651609857	Marionette	INFO	Listening on port 65514
+WebDriver BiDi listening on ws://127.0.0.1:65500
+Read port: 65514
+1664651610052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVzQtHl\\search.json.mozlz4", (void 0)))
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+DevTools listening on ws://127.0.0.1:65500/devtools/browser/dc0ddd20-0a0d-4c5b-82a7-5546c55ffd49
+[GFX1-]: shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+[2022-10-01T19:13:31Z ERROR webrender_bindings::program_cache] shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[2022-10-01T19:13:31Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[2022-10-01T19:13:31Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 966: Error: Error(s) encountered during statement execution: database or disk is full
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 5162) to file C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVzQtHl\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 5529) to file C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVzQtHl\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+JavaScript error: , line 0: uncaught exception: null
+1664651945804	Marionette	INFO	Stopped listening on port 65514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: IndexedDB: Error accessing remote-settings IDB at version 3"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Parent 36400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+12)
+[GFX1-]: shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+ file: There is not enough space on the disk. (os error 112)
+[GFX1-][2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GF[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+X1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-[2022-10-01T19:14:32Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: ThJavaScript error: resource:///modules/WindowsJumpLists.jsm, line 418: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+1664651935760	Marionette	INFO	Stopped listening on port 49225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 165: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1664652121874	geckodriver	INFO	Listening on 127.0.0.1:51803
+1664652124949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilehGcDuy"
+1664652125291	Marionette	INFO	Marionette enabled
+1664652125294	Marionette	INFO	Listening on port 51816
+Read port: 51816
+WebDriver BiDi listening on ws://127.0.0.1:51804
+1664652125371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilehGcDuy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51804/devtools/browser/81d085c0-016c-4408-b899-ae55f53cb377
+1664652141517	Marionette	INFO	Stopped listening on port 51816
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664652143345	geckodriver	INFO	Listening on 127.0.0.1:51934
+1664652146374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileEB7FMe"
+1664652146597	Marionette	INFO	Marionette enabled
+1664652146600	Marionette	INFO	Listening on port 52028
+WebDriver BiDi listening on ws://127.0.0.1:51935
+Read port: 52028
+1664652146775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileEB7FMe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51935/devtools/browser/7589193d-a6ef-47d1-be41-3dbf05f5ccfb
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664652519680	Marionette	INFO	Stopped listening on port 52028
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVKd2rs"
+1664652193442	Marionette	INFO	Marionette enabled
+1664652193446	Marionette	INFO	Listening on port 52140
+WebDriver BiDi listening on ws://127.0.0.1:52128
+Read port: 52140
+1664652193623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVKd2rs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52128/devtools/browser/35ac9161-0ef3-4ec8-9296-8ce66cce3197
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664652519674	Marionette	INFO	Stopped listening on port 52140
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1028, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+al\\Temp\\rust_mozprofileIdUwky"
+1664652231961	Marionette	INFO	Marionette enabled
+1664652231964	Marionette	INFO	Listening on port 52241
+WebDriver BiDi listening on ws://127.0.0.1:52226
+Read port: 52241
+1664652232143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileIdUwky\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52226/devtools/browser/5ccc39dc-c5f0-43c4-90d5-3144ff1ada38
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664652519674	Marionette	INFO	Stopped listening on port 52241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+al\\Temp\\rust_mozprofileApfLan"
+1664652276726	Marionette	INFO	Marionette enabled
+1664652276729	Marionette	INFO	Listening on port 52344
+WebDriver BiDi listening on ws://127.0.0.1:52333
+Read port: 52344
+1664652276907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileApfLan\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52333/devtools/browser/2718fbbd-1a93-41c8-8554-35c87d8a21f1
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664652519678	Marionette	INFO	Stopped listening on port 52344
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileNCKlZr"
+1664652328847	Marionette	INFO	Marionette enabled
+1664652328850	Marionette	INFO	Listening on port 52460
+WebDriver BiDi listening on ws://127.0.0.1:52450
+Read port: 52460
+1664652329028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNCKlZr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52450/devtools/browser/09585d94-7fc6-42db-ac55-1c9ebff85a04
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664652519673	Marionette	INFO	Stopped listening on port 52460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilexZYSNR"
+1664652456268	Marionette	INFO	Marionette enabled
+1664652456271	Marionette	INFO	Listening on port 52642
+Read port: 52642
+WebDriver BiDi listening on ws://127.0.0.1:52631
+1664652456337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilexZYSNR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52631/devtools/browser/f37558a9-41cd-4203-a2e5-4a99369a1675
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664652519673	Marionette	INFO	Stopped listening on port 52642
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+n port 52745
+Read port: 52745
+WebDriver BiDi listening on ws://127.0.0.1:52734
+1664652498800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebWqytK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52734/devtools/browser/aecefcfa-6b36-44f6-9252-d6d16a1ec89a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664652519674	Marionette	INFO	Stopped listening on port 52745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664652563442	geckodriver	INFO	Listening on 127.0.0.1:52864
+1664652566514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXv8nXq"
+1664652566742	Marionette	INFO	Marionette enabled
+1664652566745	Marionette	INFO	Listening on port 52874
+WebDriver BiDi listening on ws://127.0.0.1:52865
+Read port: 52874
+1664652566921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXv8nXq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52865/devtools/browser/7873c9c4-93f8-4a06-9f66-4375f1b0c744
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
