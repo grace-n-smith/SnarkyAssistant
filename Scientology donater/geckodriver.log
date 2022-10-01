@@ -1,0 +1,278 @@
+1664645137101	geckodriver	INFO	Listening on 127.0.0.1:57625
+1664645140173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXOvpcY"
+1664645140409	Marionette	INFO	Marionette enabled
+1664645140413	Marionette	INFO	Listening on port 57636
+WebDriver BiDi listening on ws://127.0.0.1:57626
+Read port: 57636
+1664645140635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXOvpcY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57626/devtools/browser/1f174cd4-94c2-4f3a-84f7-cd7029d6b31e
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664645219232	Marionette	INFO	Stopped listening on port 57636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664645234496	geckodriver	INFO	Listening on 127.0.0.1:57726
+1664645237549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileupGysy"
+1664645237771	Marionette	INFO	Marionette enabled
+1664645237774	Marionette	INFO	Listening on port 57736
+WebDriver BiDi listening on ws://127.0.0.1:57727
+Read port: 57736
+1664645237949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileupGysy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57727/devtools/browser/6989dc18-7291-4955-9f67-4941be75ef11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.to."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664645487104	Marionette	INFO	Stopped listening on port 57736
+p\\rust_mozprofilefKfICt"
+1664645340307	Marionette	INFO	Marionette enabled
+1664645340310	Marionette	INFO	Listening on port 57887
+Read port: 57887
+WebDriver BiDi listening on ws://127.0.0.1:57874
+1664645340375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilefKfICt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57874/devtools/browser/8e6b2bf9-612b-4752-a699-bf19c18eeb83
+1664645488004	Marionette	INFO	Stopped listening on port 57887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileiodFCI"
+1664645410333	Marionette	INFO	Marionette enabled
+1664645410338	Marionette	INFO	Listening on port 57974
+Read port: 57974
+WebDriver BiDi listening on ws://127.0.0.1:57964
+1664645410497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileiodFCI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57964/devtools/browser/a66aef00-a97f-4f70-8c89-174de5ea55ed
+1664645488815	Marionette	INFO	Stopped listening on port 57974
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58032" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNds33p"
+1664645438282	Marionette	INFO	Marionette enabled
+1664645438292	Marionette	INFO	Listening on port 58041
+Read port: 58041
+WebDriver BiDi listening on ws://127.0.0.1:58032
+1664645438467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNds33p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58032/devtools/browser/3c3a12d1-1984-4c8f-9f30-7ba3019c55e4
+1664645448478	Marionette	INFO	Stopped listening on port 58041
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664645492481	geckodriver	INFO	Listening on 127.0.0.1:58115
+1664645495559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile5mof3O"
+1664645495782	Marionette	INFO	Marionette enabled
+1664645495785	Marionette	INFO	Listening on port 58126
+Read port: 58126
+WebDriver BiDi listening on ws://127.0.0.1:58116
+1664645495851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile5mof3O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58116/devtools/browser/3f3ea911-67f1-44a8-acda-6c80c155cf84
+1664645502931	Marionette	INFO	Stopped listening on port 58126
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664645563628	geckodriver	INFO	Listening on 127.0.0.1:52374
+1664645566705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile5WuJKo"
+1664645566924	Marionette	INFO	Marionette enabled
+1664645566927	Marionette	INFO	Listening on port 52387
+Read port: 52387
+WebDriver BiDi listening on ws://127.0.0.1:52375
+1664645566994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile5WuJKo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52375/devtools/browser/bbf78c22-7f03-4441-96ac-9efe00b6d426
+1664645571389	Marionette	INFO	Stopped listening on port 52387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15992, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664645721386	geckodriver	INFO	Listening on 127.0.0.1:52534
+1664645724466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilew4Li4Y"
+1664645724692	Marionette	INFO	Marionette enabled
+1664645724695	Marionette	INFO	Listening on port 52545
+WebDriver BiDi listening on ws://127.0.0.1:52535
+Read port: 52545
+1664645724875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilew4Li4Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52535/devtools/browser/c3d888e9-f3f8-4f59-93e8-77073597401b
+1664646435353	Marionette	INFO	Stopped listening on port 52545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileuBDfqz"
+1664645800032	Marionette	INFO	Marionette enabled
+1664645800038	Marionette	INFO	Listening on port 52676
+Read port: 52676
+WebDriver BiDi listening on ws://127.0.0.1:52665
+1664645800181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileuBDfqz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52665/devtools/browser/cfd84ab4-2430-408b-8178-42bdd347833f
+1664646435352	Marionette	INFO	Stopped listening on port 52676
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileUm8t2w"
+1664646269697	Marionette	INFO	Marionette enabled
+1664646269700	Marionette	INFO	Listening on port 63861
+WebDriver BiDi listening on ws://127.0.0.1:63851
+Read port: 63861
+1664646269886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileUm8t2w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63851/devtools/browser/aaad4b8a-4fbe-48d8-84c0-3fc6321c7fd0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664646435351	Marionette	INFO	Stopped listening on port 63861
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebhzpXw"
+1664646291548	Marionette	INFO	Marionette enabled
+1664646291551	Marionette	INFO	Listening on port 63941
+Read port: 63941
+WebDriver BiDi listening on ws://127.0.0.1:63932
+1664646291616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebhzpXw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63932/devtools/browser/47dab354-15ec-4279-b77c-90841685d449
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664646435353	Marionette	INFO	Stopped listening on port 63941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664646671912	geckodriver	INFO	Listening on 127.0.0.1:64189
+1664646674998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilem595N2"
+1664646675223	Marionette	INFO	Marionette enabled
+1664646675226	Marionette	INFO	Listening on port 64201
+WebDriver BiDi listening on ws://127.0.0.1:64190
+Read port: 64201
+1664646675411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilem595N2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64190/devtools/browser/29d7e8fb-c00d-4ad4-b7ac-3ef2ab5c5daa
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664646682001	Marionette	INFO	Stopped listening on port 64201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664646797048	geckodriver	INFO	Listening on 127.0.0.1:61445
+1664646800121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileLS9MCP"
+1664646800343	Marionette	INFO	Marionette enabled
+1664646800346	Marionette	INFO	Listening on port 61455
+WebDriver BiDi listening on ws://127.0.0.1:61446
+Read port: 61455
+1664646800527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileLS9MCP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61446/devtools/browser/f65c4aaa-3089-4cf5-aef5-1644648c6995
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664646868905	Marionette	INFO	Stopped listening on port 61455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664646871762	geckodriver	INFO	Listening on 127.0.0.1:61550
+1664646874819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilewRoKQ3"
+1664646875040	Marionette	INFO	Marionette enabled
+1664646875043	Marionette	INFO	Listening on port 61562
+WebDriver BiDi listening on ws://127.0.0.1:61551
+Read port: 61562
+1664646875227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilewRoKQ3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61551/devtools/browser/ed53b42f-f3d6-489e-a407-8afda29d70d1
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664646892868	Marionette	INFO	Stopped listening on port 61562
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664646894897	geckodriver	INFO	Listening on 127.0.0.1:61628
+1664646897979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilexvgujs"
+1664646898202	Marionette	INFO	Marionette enabled
+1664646898205	Marionette	INFO	Listening on port 61639
+WebDriver BiDi listening on ws://127.0.0.1:61629
+Read port: 61639
+1664646898383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilexvgujs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61629/devtools/browser/5856911e-0dbc-4fa4-a381-76a8e43b8199
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664647030956	Marionette	INFO	Stopped listening on port 61639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2TLzIt"
+1664646997599	Marionette	INFO	Marionette enabled
+1664646997602	Marionette	INFO	Listening on port 61758
+Read port: 61758
+WebDriver BiDi listening on ws://127.0.0.1:61749
+1664646997666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2TLzIt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61749/devtools/browser/aabc3fc4-d213-4163-8718-7c527d3be55d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664647031947	Marionette	INFO	Stopped listening on port 61758
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileA9ESxh"
+1664647019236	Marionette	INFO	Marionette enabled
+1664647019239	Marionette	INFO	Listening on port 61834
+WebDriver BiDi listening on ws://127.0.0.1:61825
+Read port: 61834
+1664647019417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileA9ESxh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61825/devtools/browser/9cbc6907-66b8-4a2e-a104-2aab287fabca
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664647032666	Marionette	INFO	Stopped listening on port 61834
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664647035915	geckodriver	INFO	Listening on 127.0.0.1:61904
+1664647038968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileYa2CjU"
+1664647039188	Marionette	INFO	Marionette enabled
+1664647039191	Marionette	INFO	Listening on port 61916
+WebDriver BiDi listening on ws://127.0.0.1:61905
+Read port: 61916
+1664647039367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileYa2CjU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61905/devtools/browser/705e06f9-cdcf-4a6c-853b-72b8cd7c44af
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664647364886	Marionette	INFO	Stopped listening on port 61916
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilelJr8Ee"
+1664647155172	Marionette	INFO	Marionette enabled
+1664647155175	Marionette	INFO	Listening on port 62029
+Read port: 62029
+WebDriver BiDi listening on ws://127.0.0.1:62020
+1664647155241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilelJr8Ee\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62020/devtools/browser/8b15617c-de4c-4a5b-bc09-34c807662d01
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+1664647161618	Marionette	INFO	Stopped listening on port 62029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664647245779	geckodriver	INFO	Listening on 127.0.0.1:62122
+1664647248865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecNMh3G"
+1664647249086	Marionette	INFO	Marionette enabled
+1664647249089	Marionette	INFO	Listening on port 62135
+Read port: 62135
+WebDriver BiDi listening on ws://127.0.0.1:62123
+1664647249155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecNMh3G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62123/devtools/browser/84a0d5ac-eb38-4559-82df-51214ddc4dea
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664647364918	Marionette	INFO	Stopped listening on port 62135
+1664647662219	geckodriver	INFO	Listening on 127.0.0.1:60876
+1664647665297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileEShjz2"
+1664647665523	Marionette	INFO	Marionette enabled
+1664647665526	Marionette	INFO	Listening on port 60887
+WebDriver BiDi listening on ws://127.0.0.1:60877
+Read port: 60887
+1664647665705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileEShjz2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60877/devtools/browser/1bbd4107-df67-4546-b74d-ab6de1a0cba7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1416: unreachable code after return statement
+JavaScript warning: https://www.iasmembership.org/js/_combined.js?_=a88155d7, line 1431: unreachable code after return statement
